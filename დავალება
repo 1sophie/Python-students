@@ -1,0 +1,10 @@
+დავალებები:
+1) შექმენი ფაილი სახელად test1.py და სიტყვიერად, კომენტარის სახით, დამიწერე რა არის list, tuple, set რა მახასიათებლები აქვთ თითოეულს.
+2)
+# 1. Create a tuple called 'coordinates' with two values: (10.5, 20.8).
+# 2. Print the value at index 1 (the Y coordinate).
+# 3. Try to update index 0 to 55.5 (Note: This would cause an error, so just write the code 
+#    conceptually in a comment or try it and see the crash, then comment it out).
+# 4. Since we cannot change the tuple, create a NEW tuple called 'new_coordinates' 
+#    by adding a Z-coordinate (30.1) to the existing tuple using concatenation (+).
+# 5. Print the new coordinates.
