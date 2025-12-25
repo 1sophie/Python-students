@@ -1,3 +1,4 @@
 #notes from sofi: 
-#next steps (January - March): workflow, json(for data saving), functions(!), modules, arrays, error handling, dont repeat yourself(DRY) technique with and without OOP, PIP, Virtual environment, regex
+#next steps (January - March): workflow, json(for data saving), functions(!), modules, arrays, 
+error handling, dont repeat yourself(DRY) technique with and without OOP, PIP, Virtual environment, regex
 #OOP part : Classes and objects, The __init__() method, The self parameter, Properties and methods, Inheritance and polymorphism, Encapsulation and inner classes
