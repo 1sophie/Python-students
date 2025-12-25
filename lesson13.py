@@ -39,11 +39,6 @@ while True:
                 print("couldn't find the person, try again")#პრინტავს ორჯერ
                 break
               
-#for key, value in list(thisdict.items()):
-#    if value["age"] < 18 and value["student"] == True:
-#         print(key,value)
-#        print(thisdict[key]["name"], "gets school card")  
-#print(thisdict)
 
     #This part is for removing a guest from the Dictionary
 
