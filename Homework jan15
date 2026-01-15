@@ -1,6 +1,6 @@
-Switch 1	  |  Switch 2	    |  Light
-
-True (Up)	  |  True (Up)    |  False
-True (Up)	  |  False (Down)	|  True
-False (Down)|  True (Up)	  |  True
-False (Down)|  False (Down)	|  False
+          Switch 1	  |  Switch 2	    |  Light
+          
+          True (Up)	  |  True (Up)    |  False
+          True (Up)	  |  False (Down)	|  True
+          False (Down)|  True (Up)	  |  True
+          False (Down)|  False (Down)	|  False
