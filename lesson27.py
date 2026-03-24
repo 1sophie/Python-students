@@ -17,11 +17,7 @@ for x in range(quantity):
 if quantity == 0:
     print("you exited the dictionary")
 def price_counter():
-    for key, value in table_total.items():
         total = sum(item["price"]for item in table_total.values())
-    return total
-def per_price():
-    price_counter()
-    perc = total * 0.2
-    print(perc)
-per_price()
+        def per_price():
+             perc = total * 0.2
+             return total
